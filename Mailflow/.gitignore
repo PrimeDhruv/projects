@@ -1,0 +1,8 @@
+node_modules/
+.env
+uploads/
+attachments/
+build/
+*.pem
+.DS_Store
+IP address and others.txt
